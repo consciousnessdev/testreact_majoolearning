@@ -19,5 +19,9 @@
   "homepage": "https://github.com/consciousnessdev/testreact_majoolearning#readme",
   "devDependencies": {
     "jest": "^27.5.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.2.1"
   }
 }
